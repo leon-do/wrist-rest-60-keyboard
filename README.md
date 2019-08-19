@@ -1,4 +1,4 @@
-# wrist-rest-60-keyboard
+# wrist rest 60% keyboard
 
 ```
 x: 290mm (145mm each piece)
